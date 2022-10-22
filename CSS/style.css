@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+/* layout */
+
+.container{
+    width: 90%;
+    margin:auto;
+    
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-1{ width: 8.33%;float:left }
+.col-2{float:left; width: 16.66%}
+.col-3{float:left; width: 25% }
+.col-4{ float:left; width: 33.33%}
+.col-5{float:left;width: 41.66% } 
+.col-6{float:left; width: 50% }
+.col-7{float:left; width: 58.33%}
+.col-8{float:left; width: 66.66%}
+.col-9{float:left; width: 75%}
+.col-10{float:left; width: 83.33%}
+.col-11{float:left; width: 91.66%}
+.col-12{float:left; width: 100%}
+
+/* Header-part */
+header{
+    background-color: darkmagenta;
+}
+nav{
+
+}
+.menu-part{
+
+}
+.menu-part ul{
+
+}
+.menu-part li{
+
+}
+.menu-part li a{
+
+}
+.hero-part{
+
+}
